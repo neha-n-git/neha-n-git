@@ -48,9 +48,7 @@ AWS Academy Cloud Foundations
 
 ##  Creative Side  🌱
 
-- **Music:** eclectic taste (English → Japanese → Italian; R&B, electronic, rock).  
-- **Photography:** old-film aesthetic, scenic & vibey shots.  
-- **Crafts:** co-run a small crochet business with a friend.  
+I find joy in music that excites me — from country and soul to R&B and electric rock, often across multiple languages. I love capturing old-film inspired, scenic, and vibey shots through photography, and I also co-run a small crochet business with a friend. 
 
 ---
 
@@ -62,8 +60,7 @@ I’m always open to working on projects in **AI/ML**, **quantum computing**, an
 
 ## Setup & Aesthetic  
 
-- Dark mode everywhere  
-- Pixel / old-film inspired themes  
+I live in dark mode, with a soft spot for pixel art and old-film inspired themes.
 
 ---
 
