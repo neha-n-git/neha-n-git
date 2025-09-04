@@ -1,5 +1,4 @@
 # Welcome Aboard ~🍀
-<p align="center">────────── ⋆⋅☆⋅⋆ ──────────</p>
 <img width="1280" height="640" alt="Banner" src="https://github.com/user-attachments/assets/4df5926e-6c0d-4619-a256-9e9983af95c0" />
 <p align="center">────────── ⋆⋅☆⋅⋆ ──────────</p>
 
