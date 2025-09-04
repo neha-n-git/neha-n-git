@@ -70,6 +70,6 @@ I’m always open to working on projects in **AI/ML**, **quantum computing**, an
 ## About Me  ✨ 
 
 I’m a bit socially awkward, love solitude, and probably give off black cat vibes.  
-Big fan of musicals (EPIC fans, where are you?), and one day I’d love to produce music or even a theatre production.  
+Big fan of musicals (EPIC fans, where ya at?), and one day I’d love to produce music or even a theatre production.  
 Also a believer in the joy of doing absolutely nothing sometimes.  
 
