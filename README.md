@@ -1,7 +1,7 @@
 # Welcome Aboard ~🍀
-<hr>
+<p align="center">────────── ⋆⋅☆⋅⋆ ──────────</p>
 <img width="1280" height="640" alt="Banner" src="https://github.com/user-attachments/assets/4df5926e-6c0d-4619-a256-9e9983af95c0" />
-<hr>
+<p align="center">────────── ⋆⋅☆⋅⋆ ──────────</p>
 
 ## Resume
 <a href="https://github.com/neha-n-git/neha-n-git/raw/main/Neha%20N%20_Resume.pdf" target="_blank">
@@ -69,4 +69,7 @@ I live in dark mode, with a soft spot for pixel art and old-film inspired themes
 I’m a bit socially awkward, love solitude, and probably give off black cat vibes.  
 Big fan of musicals (EPIC fans, where ya at?), and one day I’d love to produce music or even a theatre production.  
 Also a believer in the joy of doing absolutely nothing sometimes.  
+
+<p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
+
 
