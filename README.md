@@ -69,6 +69,6 @@ I’m a bit socially awkward, love solitude, and probably give off black cat vib
 Big fan of musicals (EPIC fans, where ya at?), and one day I’d love to produce music or even a theatre production.  
 Also a believer in the joy of doing absolutely nothing sometimes.  
 
-<p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
+<p align="center">────────── ⋆⋅☆⋅⋆ ──────────</p>
 
 
