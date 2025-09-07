@@ -55,20 +55,6 @@ I find joy in music that excites me — from country and soul to R&B and electri
 
 I’m always open to working on projects in **AI/ML**, **quantum computing**, and **creative tech**.  
 
----
-
-## Setup & Aesthetic  
-
-I live in dark mode, with a soft spot for pixel art and old-film inspired themes.
-
----
-
-## About Me  ✨ 
-
-I’m a bit socially awkward, love solitude, and probably give off black cat vibes.  
-Big fan of musicals (EPIC fans, where ya at?), and one day I’d love to produce music or even a theatre production.  
-Also a believer in the joy of doing absolutely nothing sometimes.  
-
 <p align="center">────────── ⋆⋅☆⋅⋆ ──────────</p>
 
 
