@@ -27,30 +27,6 @@
 
 ---
 
-## Goals & Research  
-
-- Develop a **deep learning project for sign language translation** across multiple sign + spoken languages.  
-- Integrate **quantum computing** with AI and cybersecurity.  
-- Long-term dream: blend my love for **technology, music, and theatre production**.  
-
----
-
-## Certifications  
-AWS Academy Cloud Foundations
-● Machine Learning - Simplilearn
-● Cybersecurity and Network Fundamentals - Skillsoft
-● Introduction to Large Language Models - Google
-● Introduction to Generative AI- Google
-● Foundations of R Software, IIT Kanpur - NPTEL
-
----
-
-##  Creative Side  🌱
-
-I find joy in music that excites me — from country and soul to R&B and electric rock, often across multiple languages. I love capturing old-film inspired, scenic, and vibey shots through photography, and I also co-run a small crochet business with a friend. 
-
----
-
 ## Open to Collaborations  
 
 I’m always open to working on projects in **AI/ML**, **quantum computing**, and **creative tech**.  
